@@ -1,0 +1,15 @@
+{
+  "name": "prjct",
+  "description": "JJ's own Claude Code plugins and mods.",
+  "owner": {
+    "name": "prjct",
+    "url": "https://prjct.app"
+  },
+  "plugins": [
+    {
+      "name": "palette",
+      "source": "./themes",
+      "description": "pi-palette's color themes for Claude Code: a live-preview picker, favorites, and your library from palette.prjct.app."
+    }
+  ]
+}

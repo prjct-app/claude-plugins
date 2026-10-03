@@ -1,0 +1,2453 @@
+{
+	"format": "pi-palette",
+	"version": 1,
+	"palettes": [
+		{
+			"id": "tensor",
+			"label": "Tensor",
+			"group": "original",
+			"swatches": [
+				{
+					"name": "cyan",
+					"hex": "#20D6FF"
+				},
+				{
+					"name": "cobalt",
+					"hex": "#5B8CFF"
+				},
+				{
+					"name": "green",
+					"hex": "#56E39F"
+				},
+				{
+					"name": "coral",
+					"hex": "#FF6B8A"
+				},
+				{
+					"name": "violet",
+					"hex": "#C084FC"
+				}
+			],
+			"vars": {
+				"canvas": "#070B14",
+				"surface": "#121A2A",
+				"surfaceRaised": "#212939",
+				"selected": "#15475D",
+				"search": "#3C335C",
+				"successBg": "#1C363A",
+				"errorBg": "#382739",
+				"text": "#E6F1FF",
+				"textSoft": "#D2EEFF",
+				"muted": "#91A4BE",
+				"dim": "#657388",
+				"border": "#424E62",
+				"borderMuted": "#2B3648",
+				"accent": "#20D6FF",
+				"secondary": "#5B8CFF",
+				"success": "#56E39F",
+				"warning": "#FFD166",
+				"error": "#FF6B8A",
+				"highlight": "#C084FC"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised",
+				"userMessageBg": "surface",
+				"toolSuccessBg": "successBg",
+				"toolErrorBg": "errorBg",
+				"toolPendingBg": "surface"
+			}
+		},
+		{
+			"id": "neural",
+			"label": "Neural",
+			"group": "original",
+			"swatches": [
+				{
+					"name": "iris",
+					"hex": "#B77BFF"
+				},
+				{
+					"name": "fuchsia",
+					"hex": "#FF5CCB"
+				},
+				{
+					"name": "mint",
+					"hex": "#5EE6B0"
+				},
+				{
+					"name": "rose",
+					"hex": "#FF667A"
+				},
+				{
+					"name": "sky",
+					"hex": "#6EC8FF"
+				}
+			],
+			"vars": {
+				"canvas": "#100A18",
+				"surface": "#24152F",
+				"surfaceRaised": "#33243E",
+				"selected": "#472D61",
+				"search": "#364061",
+				"successBg": "#2C3241",
+				"errorBg": "#47223B",
+				"text": "#F6EAFF",
+				"textSoft": "#F0DFFF",
+				"muted": "#B4A0C2",
+				"dim": "#80708C",
+				"border": "#5B4A67",
+				"borderMuted": "#41314C",
+				"accent": "#B77BFF",
+				"secondary": "#FF5CCB",
+				"success": "#5EE6B0",
+				"warning": "#FFC857",
+				"error": "#FF667A",
+				"highlight": "#6EC8FF"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised",
+				"userMessageBg": "surface",
+				"toolSuccessBg": "successBg",
+				"toolErrorBg": "errorBg",
+				"toolPendingBg": "surface"
+			}
+		},
+		{
+			"id": "kernel",
+			"label": "Kernel",
+			"group": "original",
+			"swatches": [
+				{
+					"name": "phosphor",
+					"hex": "#38F28F"
+				},
+				{
+					"name": "teal",
+					"hex": "#25D0B1"
+				},
+				{
+					"name": "lime",
+					"hex": "#B7F34A"
+				},
+				{
+					"name": "amber",
+					"hex": "#FFC857"
+				},
+				{
+					"name": "red",
+					"hex": "#FF5F6D"
+				}
+			],
+			"vars": {
+				"canvas": "#07110D",
+				"surface": "#12251B",
+				"surfaceRaised": "#21342A",
+				"selected": "#1B5637",
+				"search": "#264852",
+				"successBg": "#294222",
+				"errorBg": "#382E28",
+				"text": "#E8FFF2",
+				"textSoft": "#D6FEE8",
+				"muted": "#8EAE9B",
+				"dim": "#637C6E",
+				"border": "#41594C",
+				"borderMuted": "#2B4035",
+				"accent": "#38F28F",
+				"secondary": "#25D0B1",
+				"success": "#B7F34A",
+				"warning": "#FFC857",
+				"error": "#FF5F6D",
+				"highlight": "#64B5FF"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised",
+				"userMessageBg": "surface",
+				"toolSuccessBg": "successBg",
+				"toolErrorBg": "errorBg",
+				"toolPendingBg": "surface"
+			}
+		},
+		{
+			"id": "token",
+			"label": "Token",
+			"group": "original",
+			"swatches": [
+				{
+					"name": "gold",
+					"hex": "#FFB84D"
+				},
+				{
+					"name": "orange",
+					"hex": "#FF7A3D"
+				},
+				{
+					"name": "mint",
+					"hex": "#54D6B3"
+				},
+				{
+					"name": "red",
+					"hex": "#FF6262"
+				},
+				{
+					"name": "azure",
+					"hex": "#71B7FF"
+				}
+			],
+			"vars": {
+				"canvas": "#120C08",
+				"surface": "#291A11",
+				"surfaceRaised": "#382920",
+				"selected": "#5C401F",
+				"search": "#3A404A",
+				"successBg": "#2F3428",
+				"errorBg": "#4B261E",
+				"text": "#FFF4E8",
+				"textSoft": "#FFEED8",
+				"muted": "#B9A18E",
+				"dim": "#847163",
+				"border": "#604D40",
+				"borderMuted": "#46352A",
+				"accent": "#FFB84D",
+				"secondary": "#FF7A3D",
+				"success": "#54D6B3",
+				"warning": "#FFD75E",
+				"error": "#FF6262",
+				"highlight": "#71B7FF"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised",
+				"userMessageBg": "surface",
+				"toolSuccessBg": "successBg",
+				"toolErrorBg": "errorBg",
+				"toolPendingBg": "surface"
+			}
+		},
+		{
+			"id": "vector",
+			"label": "Vector",
+			"group": "original",
+			"swatches": [
+				{
+					"name": "cyan",
+					"hex": "#33D1FF"
+				},
+				{
+					"name": "cobalt",
+					"hex": "#5A7DFF"
+				},
+				{
+					"name": "seafoam",
+					"hex": "#4DDEB5"
+				},
+				{
+					"name": "solar",
+					"hex": "#FFD166"
+				},
+				{
+					"name": "aurora",
+					"hex": "#A78BFA"
+				}
+			],
+			"vars": {
+				"canvas": "#06111C",
+				"surface": "#10263B",
+				"surfaceRaised": "#1F3549",
+				"selected": "#184F6A",
+				"search": "#343E69",
+				"successBg": "#19404C",
+				"errorBg": "#363045",
+				"text": "#EAF7FF",
+				"textSoft": "#D8F3FF",
+				"muted": "#8EACC2",
+				"dim": "#627A8D",
+				"border": "#40596E",
+				"borderMuted": "#294156",
+				"accent": "#33D1FF",
+				"secondary": "#5A7DFF",
+				"success": "#4DDEB5",
+				"warning": "#FFD166",
+				"error": "#FF657A",
+				"highlight": "#A78BFA"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised",
+				"userMessageBg": "surface",
+				"toolSuccessBg": "successBg",
+				"toolErrorBg": "errorBg",
+				"toolPendingBg": "surface"
+			}
+		},
+		{
+			"id": "agent",
+			"label": "Agent",
+			"group": "original",
+			"swatches": [
+				{
+					"name": "orchid",
+					"hex": "#C77DFF"
+				},
+				{
+					"name": "indigo",
+					"hex": "#6E8BFF"
+				},
+				{
+					"name": "green",
+					"hex": "#5CE1A6"
+				},
+				{
+					"name": "pink",
+					"hex": "#FF6B9E"
+				},
+				{
+					"name": "hologram",
+					"hex": "#55DDE0"
+				}
+			],
+			"vars": {
+				"canvas": "#100B1E",
+				"surface": "#21153B",
+				"surfaceRaised": "#302449",
+				"selected": "#492E6A",
+				"search": "#2D4563",
+				"successBg": "#29324A",
+				"errorBg": "#45234B",
+				"text": "#F3ECFF",
+				"textSoft": "#EFE1FF",
+				"muted": "#AD9BC4",
+				"dim": "#7B6D8F",
+				"border": "#56486F",
+				"borderMuted": "#3D3056",
+				"accent": "#C77DFF",
+				"secondary": "#6E8BFF",
+				"success": "#5CE1A6",
+				"warning": "#FFD166",
+				"error": "#FF6B9E",
+				"highlight": "#55DDE0"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised",
+				"userMessageBg": "surface",
+				"toolSuccessBg": "successBg",
+				"toolErrorBg": "errorBg",
+				"toolPendingBg": "surface"
+			}
+		},
+		{
+			"id": "flux",
+			"label": "Flux",
+			"group": "original",
+			"swatches": [
+				{
+					"name": "mint",
+					"hex": "#4EF2C2"
+				},
+				{
+					"name": "aqua",
+					"hex": "#2DCEF0"
+				},
+				{
+					"name": "lime",
+					"hex": "#A8F060"
+				},
+				{
+					"name": "coral",
+					"hex": "#FF6F79"
+				},
+				{
+					"name": "lavender",
+					"hex": "#B69CFF"
+				}
+			],
+			"vars": {
+				"canvas": "#091210",
+				"surface": "#122722",
+				"surfaceRaised": "#213631",
+				"selected": "#205848",
+				"search": "#394357",
+				"successBg": "#27432B",
+				"errorBg": "#383330",
+				"text": "#E9FFF9",
+				"textSoft": "#DAFEF4",
+				"muted": "#91B8AC",
+				"dim": "#65837A",
+				"border": "#425E56",
+				"borderMuted": "#2B443E",
+				"accent": "#4EF2C2",
+				"secondary": "#2DCEF0",
+				"success": "#A8F060",
+				"warning": "#FFE066",
+				"error": "#FF6F79",
+				"highlight": "#B69CFF"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised",
+				"userMessageBg": "surface",
+				"toolSuccessBg": "successBg",
+				"toolErrorBg": "errorBg",
+				"toolPendingBg": "surface"
+			}
+		},
+		{
+			"id": "synapse",
+			"label": "Synapse",
+			"group": "original",
+			"swatches": [
+				{
+					"name": "peach",
+					"hex": "#FF9F68"
+				},
+				{
+					"name": "coral",
+					"hex": "#FF6B7A"
+				},
+				{
+					"name": "green",
+					"hex": "#6CDB9A"
+				},
+				{
+					"name": "gold",
+					"hex": "#FFD166"
+				},
+				{
+					"name": "sky",
+					"hex": "#67C7FF"
+				}
+			],
+			"vars": {
+				"canvas": "#121015",
+				"surface": "#2A1C20",
+				"surfaceRaised": "#392B2E",
+				"selected": "#5D3B31",
+				"search": "#394556",
+				"successBg": "#333731",
+				"errorBg": "#4C242B",
+				"text": "#FFF0ED",
+				"textSoft": "#FFE8E0",
+				"muted": "#B9A0A3",
+				"dim": "#847276",
+				"border": "#604E52",
+				"borderMuted": "#47363A",
+				"accent": "#FF9F68",
+				"secondary": "#FF6B7A",
+				"success": "#6CDB9A",
+				"warning": "#FFD166",
+				"error": "#FF4F64",
+				"highlight": "#67C7FF"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised",
+				"userMessageBg": "surface",
+				"toolSuccessBg": "successBg",
+				"toolErrorBg": "errorBg",
+				"toolPendingBg": "surface"
+			}
+		},
+		{
+			"id": "debug",
+			"label": "Debug",
+			"group": "original",
+			"swatches": [
+				{
+					"name": "blue",
+					"hex": "#0057B8"
+				},
+				{
+					"name": "orange",
+					"hex": "#FC4C02"
+				},
+				{
+					"name": "beige",
+					"hex": "#E0C6AD"
+				},
+				{
+					"name": "charcoal",
+					"hex": "#253746"
+				},
+				{
+					"name": "teal",
+					"hex": "#00968F"
+				}
+			],
+			"vars": {
+				"canvas": "#1C2834",
+				"surface": "#28343F",
+				"surfaceRaised": "#333E49",
+				"selected": "#31465C",
+				"search": "#5F3E34",
+				"successBg": "#26414A",
+				"errorBg": "#463736",
+				"text": "#E0C6AD",
+				"textSoft": "#E2C9B2",
+				"muted": "#968C81",
+				"dim": "#726E6B",
+				"border": "#4D5155",
+				"borderMuted": "#3A434A",
+				"accent": "#5790D0",
+				"secondary": "#149E98",
+				"highlight": "#FC5A16",
+				"success": "#149E98",
+				"warning": "#FC733A",
+				"error": "#FC4C02",
+				"keyword": "#5790D0",
+				"beige": "#E0C6AD",
+				"blue": "#0057B8",
+				"orange": "#FC4C02",
+				"charcoal": "#253746",
+				"teal": "#00968F"
+			},
+			"colors": {
+				"thinkingText": "muted",
+				"searchMatchText": "#F2D7C5",
+				"customMessageText": "textSoft",
+				"toolTitle": "text",
+				"toolOutput": "muted",
+				"mdLink": "secondary",
+				"mdLinkUrl": "dim",
+				"mdCode": "accent",
+				"mdCodeBlockBorder": "borderMuted",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "keyword",
+				"syntaxFunction": "secondary",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "highlight",
+				"syntaxType": "accent",
+				"syntaxOperator": "warning",
+				"syntaxPunctuation": "muted",
+				"bashMode": "warning"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "selected"
+			}
+		},
+		{
+			"id": "exception",
+			"label": "Exception",
+			"group": "original",
+			"swatches": [
+				{
+					"name": "red",
+					"hex": "#C8102E"
+				},
+				{
+					"name": "teal",
+					"hex": "#00968F"
+				},
+				{
+					"name": "cream",
+					"hex": "#DDCBA4"
+				},
+				{
+					"name": "charcoal",
+					"hex": "#1D252D"
+				},
+				{
+					"name": "pink",
+					"hex": "#E0457B"
+				}
+			],
+			"vars": {
+				"canvas": "#1D252D",
+				"surface": "#293139",
+				"surfaceRaised": "#343B43",
+				"selected": "#4E3B4A",
+				"search": "#5A4152",
+				"successBg": "#263E44",
+				"errorBg": "#423841",
+				"text": "#DDCBA4",
+				"textSoft": "#DFCEA9",
+				"muted": "#958D79",
+				"dim": "#716F64",
+				"border": "#4D504E",
+				"borderMuted": "#3B4044",
+				"accent": "#E46290",
+				"secondary": "#149E98",
+				"highlight": "#E66F99",
+				"success": "#149E98",
+				"warning": "#E87BA1",
+				"error": "#DA6275",
+				"keyword": "#DD6F80",
+				"charcoal": "#1D252D",
+				"teal": "#00968F",
+				"red": "#C8102E",
+				"cream": "#DDCBA4",
+				"pink": "#E0457B"
+			},
+			"colors": {
+				"thinkingText": "muted",
+				"searchMatchText": "#EED8CB",
+				"customMessageText": "textSoft",
+				"toolTitle": "text",
+				"toolOutput": "muted",
+				"mdLink": "secondary",
+				"mdLinkUrl": "dim",
+				"mdCode": "accent",
+				"mdCodeBlockBorder": "borderMuted",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "keyword",
+				"syntaxFunction": "secondary",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "highlight",
+				"syntaxType": "accent",
+				"syntaxOperator": "warning",
+				"syntaxPunctuation": "muted",
+				"bashMode": "warning"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "selected"
+			}
+		},
+		{
+			"id": "merge",
+			"label": "Merge",
+			"group": "original",
+			"swatches": [
+				{
+					"name": "emerald",
+					"hex": "#007D63"
+				},
+				{
+					"name": "green",
+					"hex": "#154734"
+				},
+				{
+					"name": "gold",
+					"hex": "#C6A15B"
+				},
+				{
+					"name": "yellow",
+					"hex": "#FFB81C"
+				},
+				{
+					"name": "teal",
+					"hex": "#2DCCD3"
+				}
+			],
+			"vars": {
+				"canvas": "#0D2D22",
+				"surface": "#1A392E",
+				"surfaceRaised": "#254338",
+				"selected": "#1E564F",
+				"search": "#565A29",
+				"successBg": "#1E4539",
+				"errorBg": "#324834",
+				"text": "#E8D5A3",
+				"textSoft": "#E9D8A9",
+				"muted": "#969774",
+				"dim": "#6C775D",
+				"border": "#435845",
+				"borderMuted": "#2F493A",
+				"accent": "#2DCCD3",
+				"secondary": "#389A86",
+				"highlight": "#FFB81C",
+				"success": "#389A86",
+				"warning": "#FFB81C",
+				"error": "#C6A15B",
+				"keyword": "#C6A15B",
+				"teal": "#2DCCD3",
+				"emerald": "#007D63",
+				"green": "#154734",
+				"gold": "#C6A15B",
+				"yellow": "#FFB81C"
+			},
+			"colors": {
+				"thinkingText": "muted",
+				"searchMatchText": "#F0DAA3",
+				"customMessageText": "textSoft",
+				"toolTitle": "text",
+				"toolOutput": "muted",
+				"mdLink": "secondary",
+				"mdLinkUrl": "dim",
+				"mdCode": "accent",
+				"mdCodeBlockBorder": "borderMuted",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "keyword",
+				"syntaxFunction": "secondary",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "highlight",
+				"syntaxType": "accent",
+				"syntaxOperator": "warning",
+				"syntaxPunctuation": "muted",
+				"bashMode": "warning"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "selected"
+			}
+		},
+		{
+			"id": "refactor",
+			"label": "Refactor",
+			"group": "original",
+			"swatches": [
+				{
+					"name": "terracotta",
+					"hex": "#C4704E"
+				},
+				{
+					"name": "teal",
+					"hex": "#00968F"
+				},
+				{
+					"name": "magenta",
+					"hex": "#CE0F69"
+				},
+				{
+					"name": "beige",
+					"hex": "#E0C6AD"
+				},
+				{
+					"name": "charcoal",
+					"hex": "#3F2021"
+				}
+			],
+			"vars": {
+				"canvas": "#3F2021",
+				"surface": "#4A2C2D",
+				"surfaceRaised": "#533738",
+				"selected": "#683743",
+				"search": "#6C433D",
+				"successBg": "#443A3A",
+				"errorBg": "#5F333D",
+				"text": "#E0C6AD",
+				"textSoft": "#E2C9B2",
+				"muted": "#A4887A",
+				"dim": "#866A60",
+				"border": "#684B47",
+				"borderMuted": "#593B3A",
+				"accent": "#DF619C",
+				"secondary": "#149E98",
+				"highlight": "#CD8669",
+				"success": "#149E98",
+				"warning": "#D19075",
+				"error": "#DF619C",
+				"keyword": "#C97B5C",
+				"magenta": "#CE0F69",
+				"beige": "#E0C6AD",
+				"charcoal": "#3F2021",
+				"teal": "#00968F",
+				"terracotta": "#C4704E"
+			},
+			"colors": {
+				"thinkingText": "muted",
+				"searchMatchText": "#ECD8CA",
+				"customMessageText": "textSoft",
+				"toolTitle": "text",
+				"toolOutput": "muted",
+				"mdLink": "secondary",
+				"mdLinkUrl": "dim",
+				"mdCode": "accent",
+				"mdCodeBlockBorder": "borderMuted",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "keyword",
+				"syntaxFunction": "secondary",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "highlight",
+				"syntaxType": "accent",
+				"syntaxOperator": "warning",
+				"syntaxPunctuation": "muted",
+				"bashMode": "warning"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "selected"
+			}
+		},
+		{
+			"id": "legacy",
+			"label": "Legacy",
+			"group": "original",
+			"swatches": [
+				{
+					"name": "beige",
+					"hex": "#E0C6AD"
+				},
+				{
+					"name": "orange",
+					"hex": "#FC4C02"
+				},
+				{
+					"name": "brown",
+					"hex": "#8C6239"
+				},
+				{
+					"name": "olive",
+					"hex": "#5E6738"
+				},
+				{
+					"name": "red",
+					"hex": "#C8102E"
+				}
+			],
+			"vars": {
+				"canvas": "#392817",
+				"surface": "#443424",
+				"surfaceRaised": "#4D3E2F",
+				"selected": "#69391D",
+				"search": "#6C433C",
+				"successBg": "#4D3F2D",
+				"errorBg": "#593A2F",
+				"text": "#E0C6AD",
+				"textSoft": "#E2C9B2",
+				"muted": "#A28C76",
+				"dim": "#826E5B",
+				"border": "#63513F",
+				"borderMuted": "#544332",
+				"accent": "#FC4C02",
+				"secondary": "#8C9270",
+				"highlight": "#DD6F80",
+				"success": "#8C9270",
+				"warning": "#FC733A",
+				"error": "#DA6275",
+				"keyword": "#A58665",
+				"beige": "#E0C6AD",
+				"orange": "#FC4C02",
+				"red": "#C8102E",
+				"brown": "#8C6239",
+				"olive": "#5E6738"
+			},
+			"colors": {
+				"thinkingText": "muted",
+				"searchMatchText": "#EED6CC",
+				"customMessageText": "textSoft",
+				"toolTitle": "text",
+				"toolOutput": "muted",
+				"mdLink": "secondary",
+				"mdLinkUrl": "dim",
+				"mdCode": "accent",
+				"mdCodeBlockBorder": "borderMuted",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "keyword",
+				"syntaxFunction": "secondary",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "highlight",
+				"syntaxType": "accent",
+				"syntaxOperator": "warning",
+				"syntaxPunctuation": "muted",
+				"bashMode": "warning"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "selected"
+			}
+		},
+		{
+			"id": "syntax",
+			"label": "Syntax",
+			"group": "original",
+			"swatches": [
+				{
+					"name": "aqua",
+					"hex": "#4EC6C0"
+				},
+				{
+					"name": "magenta",
+					"hex": "#CE0F69"
+				},
+				{
+					"name": "emerald",
+					"hex": "#007D63"
+				},
+				{
+					"name": "lime",
+					"hex": "#00B140"
+				},
+				{
+					"name": "charcoal",
+					"hex": "#1D252D"
+				}
+			],
+			"vars": {
+				"canvas": "#1D252D",
+				"surface": "#293139",
+				"surfaceRaised": "#343B43",
+				"selected": "#214B3A",
+				"search": "#594155",
+				"successBg": "#24403A",
+				"errorBg": "#423847",
+				"text": "#D4F0EE",
+				"textSoft": "#D7F1EF",
+				"muted": "#90A4A6",
+				"dim": "#6D7D81",
+				"border": "#4B575D",
+				"borderMuted": "#3A444B",
+				"accent": "#00B140",
+				"secondary": "#4EC6C0",
+				"highlight": "#E26EA4",
+				"success": "#00B140",
+				"warning": "#4EC6C0",
+				"error": "#DF619C",
+				"keyword": "#389A86",
+				"aqua": "#4EC6C0",
+				"magenta": "#CE0F69",
+				"charcoal": "#1D252D",
+				"emerald": "#007D63",
+				"lime": "#00B140"
+			},
+			"colors": {
+				"thinkingText": "muted",
+				"searchMatchText": "#DAD9E2",
+				"customMessageText": "textSoft",
+				"toolTitle": "text",
+				"toolOutput": "muted",
+				"mdLink": "secondary",
+				"mdLinkUrl": "dim",
+				"mdCode": "accent",
+				"mdCodeBlockBorder": "borderMuted",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "keyword",
+				"syntaxFunction": "secondary",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "highlight",
+				"syntaxType": "accent",
+				"syntaxOperator": "warning",
+				"syntaxPunctuation": "muted",
+				"bashMode": "warning"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "selected"
+			}
+		},
+		{
+			"id": "production",
+			"label": "Production",
+			"group": "original",
+			"swatches": [
+				{
+					"name": "burgundy",
+					"hex": "#651C32"
+				},
+				{
+					"name": "beige",
+					"hex": "#E0C6AD"
+				},
+				{
+					"name": "gold",
+					"hex": "#C6A15B"
+				},
+				{
+					"name": "red",
+					"hex": "#A6192E"
+				},
+				{
+					"name": "charcoal",
+					"hex": "#1D252D"
+				}
+			],
+			"vars": {
+				"canvas": "#1D252D",
+				"surface": "#293139",
+				"surfaceRaised": "#343B43",
+				"selected": "#484740",
+				"search": "#54454E",
+				"successBg": "#3C3E3D",
+				"errorBg": "#403A43",
+				"text": "#E0C6AD",
+				"textSoft": "#E2C9B2",
+				"muted": "#978A7F",
+				"dim": "#726D67",
+				"border": "#4E4F50",
+				"borderMuted": "#3B4045",
+				"accent": "#C6A15B",
+				"secondary": "#A9808D",
+				"highlight": "#CE7E8A",
+				"success": "#C6A15B",
+				"warning": "#C6A15B",
+				"error": "#CA7380",
+				"keyword": "#A9808D",
+				"beige": "#E0C6AD",
+				"charcoal": "#1D252D",
+				"red": "#A6192E",
+				"gold": "#C6A15B",
+				"burgundy": "#651C32"
+			},
+			"colors": {
+				"thinkingText": "muted",
+				"searchMatchText": "#ECD7CE",
+				"customMessageText": "textSoft",
+				"toolTitle": "text",
+				"toolOutput": "muted",
+				"mdLink": "secondary",
+				"mdLinkUrl": "dim",
+				"mdCode": "accent",
+				"mdCodeBlockBorder": "borderMuted",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "keyword",
+				"syntaxFunction": "secondary",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "highlight",
+				"syntaxType": "accent",
+				"syntaxOperator": "warning",
+				"syntaxPunctuation": "muted",
+				"bashMode": "warning"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "selected"
+			}
+		},
+		{
+			"id": "pipeline",
+			"label": "Pipeline",
+			"group": "original",
+			"swatches": [
+				{
+					"name": "red",
+					"hex": "#C8102E"
+				},
+				{
+					"name": "teal",
+					"hex": "#4FA8B5"
+				},
+				{
+					"name": "charcoal",
+					"hex": "#1D252D"
+				},
+				{
+					"name": "cream",
+					"hex": "#DDCBA4"
+				},
+				{
+					"name": "orange",
+					"hex": "#CF4520"
+				}
+			],
+			"vars": {
+				"canvas": "#1D252D",
+				"surface": "#293139",
+				"surfaceRaised": "#343B43",
+				"selected": "#314952",
+				"search": "#58414B",
+				"successBg": "#2E3F48",
+				"errorBg": "#423841",
+				"text": "#DDCBA4",
+				"textSoft": "#DFCEA9",
+				"muted": "#958D79",
+				"dim": "#716F64",
+				"border": "#4D504E",
+				"borderMuted": "#3B4044",
+				"accent": "#4FA8B5",
+				"secondary": "#DA6F51",
+				"highlight": "#DD6F80",
+				"success": "#4FA8B5",
+				"warning": "#E0866C",
+				"error": "#DA6275",
+				"keyword": "#DA6F51",
+				"orange": "#CF4520",
+				"charcoal": "#1D252D",
+				"teal": "#4FA8B5",
+				"red": "#C8102E",
+				"cream": "#DDCBA4"
+			},
+			"colors": {
+				"thinkingText": "muted",
+				"searchMatchText": "#ECD8C9",
+				"customMessageText": "textSoft",
+				"toolTitle": "text",
+				"toolOutput": "muted",
+				"mdLink": "secondary",
+				"mdLinkUrl": "dim",
+				"mdCode": "accent",
+				"mdCodeBlockBorder": "borderMuted",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "keyword",
+				"syntaxFunction": "secondary",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "highlight",
+				"syntaxType": "accent",
+				"syntaxOperator": "warning",
+				"syntaxPunctuation": "muted",
+				"bashMode": "warning"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "selected"
+			}
+		},
+		{
+			"id": "deploy",
+			"label": "Deploy",
+			"group": "original",
+			"swatches": [
+				{
+					"name": "gold",
+					"hex": "#C6A15B"
+				},
+				{
+					"name": "burgundy",
+					"hex": "#651C32"
+				},
+				{
+					"name": "green",
+					"hex": "#154734"
+				},
+				{
+					"name": "teal",
+					"hex": "#1A6B7A"
+				},
+				{
+					"name": "magenta",
+					"hex": "#CE0F69"
+				}
+			],
+			"vars": {
+				"canvas": "#0D2D22",
+				"surface": "#1A392E",
+				"surfaceRaised": "#254338",
+				"selected": "#3C4E37",
+				"search": "#4E474D",
+				"successBg": "#204538",
+				"errorBg": "#363F3D",
+				"text": "#E6D4A8",
+				"textSoft": "#E8D7AD",
+				"muted": "#949677",
+				"dim": "#6C775F",
+				"border": "#435846",
+				"borderMuted": "#2E493A",
+				"accent": "#C6A15B",
+				"secondary": "#5B95A0",
+				"highlight": "#E26EA4",
+				"success": "#4B9C7F",
+				"warning": "#C6A15B",
+				"error": "#DF619C",
+				"keyword": "#A9808D",
+				"magenta": "#CE0F69",
+				"teal": "#1A6B7A",
+				"green": "#154734",
+				"gold": "#C6A15B",
+				"burgundy": "#651C32"
+			},
+			"colors": {
+				"thinkingText": "muted",
+				"searchMatchText": "#EED6C5",
+				"customMessageText": "textSoft",
+				"toolTitle": "text",
+				"toolOutput": "muted",
+				"mdLink": "secondary",
+				"mdLinkUrl": "dim",
+				"mdCode": "accent",
+				"mdCodeBlockBorder": "borderMuted",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "keyword",
+				"syntaxFunction": "secondary",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "highlight",
+				"syntaxType": "accent",
+				"syntaxOperator": "warning",
+				"syntaxPunctuation": "muted",
+				"bashMode": "warning"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "selected"
+			}
+		},
+		{
+			"id": "glacier",
+			"label": "Glacier",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "ivory",
+					"hex": "#EEF0F8"
+				},
+				{
+					"name": "sky",
+					"hex": "#9FCAF2"
+				},
+				{
+					"name": "cobalt",
+					"hex": "#2A62C4"
+				},
+				{
+					"name": "navy",
+					"hex": "#113068"
+				},
+				{
+					"name": "sunflower",
+					"hex": "#F5CB4B"
+				}
+			],
+			"vars": {
+				"canvas": "#0C1A36",
+				"surface": "#1A2843",
+				"surfaceRaised": "#24324D",
+				"selected": "#354866",
+				"search": "#414544",
+				"successBg": "#273B51",
+				"errorBg": "#34344B",
+				"text": "#D7E1F3",
+				"textSoft": "#D0DEF3",
+				"muted": "#949FB5",
+				"dim": "#7C879E",
+				"border": "#536078",
+				"borderMuted": "#3D4A63",
+				"accent": "#9FCAF2",
+				"secondary": "#88AEE8",
+				"success": "#8AC8B6",
+				"warning": "#F5CB4B",
+				"error": "#EF8D88",
+				"highlight": "#F5CB4B",
+				"ivory": "#EEF0F8",
+				"sky": "#9FCAF2",
+				"cobalt": "#2A62C4",
+				"navy": "#113068",
+				"sunflower": "#F5CB4B"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised",
+				"userMessageBg": "surface",
+				"toolSuccessBg": "successBg",
+				"toolErrorBg": "errorBg",
+				"toolPendingBg": "surface"
+			}
+		},
+		{
+			"id": "ember",
+			"label": "Ember",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "orange",
+					"hex": "#ED8139"
+				},
+				{
+					"name": "vermilion",
+					"hex": "#EA5831"
+				},
+				{
+					"name": "oxblood",
+					"hex": "#8A1E2A"
+				},
+				{
+					"name": "sage",
+					"hex": "#607E66"
+				},
+				{
+					"name": "charcoal",
+					"hex": "#202022"
+				}
+			],
+			"vars": {
+				"canvas": "#12141A",
+				"surface": "#222328",
+				"surfaceRaised": "#2D2D31",
+				"selected": "#4B362B",
+				"search": "#383F3D",
+				"successBg": "#313536",
+				"errorBg": "#3B3034",
+				"text": "#F2E5DB",
+				"textSoft": "#F1D8C6",
+				"muted": "#A8A09B",
+				"dim": "#8D8784",
+				"border": "#605D5E",
+				"borderMuted": "#484648",
+				"accent": "#ED8139",
+				"secondary": "#F69474",
+				"success": "#9EBC9E",
+				"warning": "#F3C16F",
+				"error": "#F28C88",
+				"highlight": "#9EBC9E",
+				"orange": "#ED8139",
+				"vermilion": "#EA5831",
+				"oxblood": "#8A1E2A",
+				"sage": "#607E66",
+				"charcoal": "#202022"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised",
+				"userMessageBg": "surface",
+				"toolSuccessBg": "successBg",
+				"toolErrorBg": "errorBg",
+				"toolPendingBg": "surface"
+			}
+		},
+		{
+			"id": "iris",
+			"label": "Iris",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "lilac",
+					"hex": "#C1B5DC"
+				},
+				{
+					"name": "violet",
+					"hex": "#5B448A"
+				},
+				{
+					"name": "midnight",
+					"hex": "#0E243E"
+				},
+				{
+					"name": "ink",
+					"hex": "#131418"
+				},
+				{
+					"name": "olive",
+					"hex": "#869546"
+				}
+			],
+			"vars": {
+				"canvas": "#0A1625",
+				"surface": "#1A2433",
+				"surfaceRaised": "#252F3E",
+				"selected": "#3B4155",
+				"search": "#36413F",
+				"successBg": "#2C373B",
+				"errorBg": "#343040",
+				"text": "#EAE4F4",
+				"textSoft": "#E5DEF1",
+				"muted": "#A0A0B0",
+				"dim": "#858797",
+				"border": "#585E6D",
+				"borderMuted": "#404757",
+				"accent": "#C1B5DC",
+				"secondary": "#AFA0D3",
+				"success": "#B4C377",
+				"warning": "#E4C07C",
+				"error": "#F08C9D",
+				"highlight": "#B4C377",
+				"lilac": "#C1B5DC",
+				"violet": "#5B448A",
+				"midnight": "#0E243E",
+				"ink": "#131418",
+				"olive": "#869546"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised",
+				"userMessageBg": "surface",
+				"toolSuccessBg": "successBg",
+				"toolErrorBg": "errorBg",
+				"toolPendingBg": "surface"
+			}
+		},
+		{
+			"id": "hearth",
+			"label": "Hearth",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "cream",
+					"hex": "#F2E9CC"
+				},
+				{
+					"name": "peach",
+					"hex": "#F4CAA0"
+				},
+				{
+					"name": "terracotta",
+					"hex": "#BC704A"
+				},
+				{
+					"name": "brick",
+					"hex": "#A42A2B"
+				},
+				{
+					"name": "coffee",
+					"hex": "#482B23"
+				}
+			],
+			"vars": {
+				"canvas": "#22181A",
+				"surface": "#312726",
+				"surfaceRaised": "#3B312F",
+				"selected": "#58483E",
+				"search": "#534436",
+				"successBg": "#403B33",
+				"errorBg": "#483331",
+				"text": "#F2E9CC",
+				"textSoft": "#F2E5C6",
+				"muted": "#ADA491",
+				"dim": "#948B7C",
+				"border": "#6B6158",
+				"borderMuted": "#544A45",
+				"accent": "#F4CAA0",
+				"secondary": "#E39A76",
+				"success": "#AFCA95",
+				"warning": "#F0C87D",
+				"error": "#F18C82",
+				"highlight": "#F0C87D",
+				"cream": "#F2E9CC",
+				"peach": "#F4CAA0",
+				"terracotta": "#BC704A",
+				"brick": "#A42A2B",
+				"coffee": "#482B23"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised",
+				"userMessageBg": "surface",
+				"toolSuccessBg": "successBg",
+				"toolErrorBg": "errorBg",
+				"toolPendingBg": "surface"
+			}
+		},
+		{
+			"id": "atelier",
+			"label": "Atelier",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "cream",
+					"hex": "#F4E8CD"
+				},
+				{
+					"name": "beige",
+					"hex": "#C7B59F"
+				},
+				{
+					"name": "burgundy",
+					"hex": "#722138"
+				},
+				{
+					"name": "orchid",
+					"hex": "#762F75"
+				},
+				{
+					"name": "olive",
+					"hex": "#707246"
+				}
+			],
+			"vars": {
+				"canvas": "#321422",
+				"surface": "#40232E",
+				"surfaceRaised": "#492D37",
+				"selected": "#5B4045",
+				"search": "#5B384B",
+				"successBg": "#4E3638",
+				"errorBg": "#55303B",
+				"text": "#F4E8CD",
+				"textSoft": "#EEE1C7",
+				"muted": "#B4A295",
+				"dim": "#9D8980",
+				"border": "#765E5E",
+				"borderMuted": "#61474B",
+				"accent": "#C7B59F",
+				"secondary": "#D697D0",
+				"success": "#B3C182",
+				"warning": "#F0C57C",
+				"error": "#ED8F9A",
+				"highlight": "#D697D0",
+				"cream": "#F4E8CD",
+				"beige": "#C7B59F",
+				"burgundy": "#722138",
+				"orchid": "#762F75",
+				"olive": "#707246"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised",
+				"userMessageBg": "surface",
+				"toolSuccessBg": "successBg",
+				"toolErrorBg": "errorBg",
+				"toolPendingBg": "surface"
+			}
+		},
+		{
+			"id": "bloom",
+			"label": "Bloom",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "porcelain",
+					"hex": "#E2DFDC"
+				},
+				{
+					"name": "rose",
+					"hex": "#CEA4B0"
+				},
+				{
+					"name": "wine",
+					"hex": "#6B1E31"
+				},
+				{
+					"name": "honey",
+					"hex": "#EDB64B"
+				},
+				{
+					"name": "black",
+					"hex": "#121212"
+				}
+			],
+			"vars": {
+				"canvas": "#0C0E13",
+				"surface": "#1B1D21",
+				"surfaceRaised": "#26272B",
+				"selected": "#3F383E",
+				"search": "#413929",
+				"successBg": "#2C3130",
+				"errorBg": "#342A2F",
+				"text": "#E2DFDC",
+				"textSoft": "#DFD7D6",
+				"muted": "#9B9A9A",
+				"dim": "#828182",
+				"border": "#575759",
+				"borderMuted": "#3F4043",
+				"accent": "#CEA4B0",
+				"secondary": "#EDB64B",
+				"success": "#A9C49D",
+				"warning": "#EDB64B",
+				"error": "#EE8898",
+				"highlight": "#EDB64B",
+				"porcelain": "#E2DFDC",
+				"rose": "#CEA4B0",
+				"wine": "#6B1E31",
+				"honey": "#EDB64B",
+				"black": "#121212"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised",
+				"userMessageBg": "surface",
+				"toolSuccessBg": "successBg",
+				"toolErrorBg": "errorBg",
+				"toolPendingBg": "surface"
+			}
+		},
+		{
+			"id": "tidepool",
+			"label": "Tidepool",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "turquoise",
+					"hex": "#5EC0C7"
+				},
+				{
+					"name": "azure",
+					"hex": "#51AAE7"
+				},
+				{
+					"name": "deepBlue",
+					"hex": "#1A4172"
+				},
+				{
+					"name": "gold",
+					"hex": "#D9AF49"
+				},
+				{
+					"name": "olive",
+					"hex": "#818B44"
+				}
+			],
+			"vars": {
+				"canvas": "#0F213A",
+				"surface": "#1E2F47",
+				"surfaceRaised": "#283A50",
+				"selected": "#2B4C61",
+				"search": "#404647",
+				"successBg": "#30404D",
+				"errorBg": "#373A4E",
+				"text": "#E3F0F1",
+				"textSoft": "#D2EAEC",
+				"muted": "#9DACB5",
+				"dim": "#84939F",
+				"border": "#59697A",
+				"borderMuted": "#425366",
+				"accent": "#5EC0C7",
+				"secondary": "#74BAED",
+				"success": "#B6BF79",
+				"warning": "#D9AF49",
+				"error": "#F08D83",
+				"highlight": "#D9AF49",
+				"turquoise": "#5EC0C7",
+				"azure": "#51AAE7",
+				"deepBlue": "#1A4172",
+				"gold": "#D9AF49",
+				"olive": "#818B44"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised",
+				"userMessageBg": "surface",
+				"toolSuccessBg": "successBg",
+				"toolErrorBg": "errorBg",
+				"toolPendingBg": "surface"
+			}
+		},
+		{
+			"id": "orchard",
+			"label": "Orchard",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "lime",
+					"hex": "#B2D755"
+				},
+				{
+					"name": "turquoise",
+					"hex": "#4CA2A5"
+				},
+				{
+					"name": "slate",
+					"hex": "#607F91"
+				},
+				{
+					"name": "coral",
+					"hex": "#EA6A53"
+				},
+				{
+					"name": "burgundy",
+					"hex": "#7D233B"
+				}
+			],
+			"vars": {
+				"canvas": "#371524",
+				"surface": "#442431",
+				"surfaceRaised": "#4D2F39",
+				"selected": "#5A4838",
+				"search": "#63353D",
+				"successBg": "#513935",
+				"errorBg": "#593039",
+				"text": "#EBEFD7",
+				"textSoft": "#E4ECC6",
+				"muted": "#B0A79C",
+				"dim": "#9A8D86",
+				"border": "#766163",
+				"borderMuted": "#62494F",
+				"accent": "#B2D755",
+				"secondary": "#79CDD0",
+				"success": "#B2D755",
+				"warning": "#EABB70",
+				"error": "#F28576",
+				"highlight": "#F28576",
+				"lime": "#B2D755",
+				"turquoise": "#4CA2A5",
+				"slate": "#607F91",
+				"coral": "#EA6A53",
+				"burgundy": "#7D233B"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised",
+				"userMessageBg": "surface",
+				"toolSuccessBg": "successBg",
+				"toolErrorBg": "errorBg",
+				"toolPendingBg": "surface"
+			}
+		},
+		{
+			"id": "dracula",
+			"label": "Dracula",
+			"group": "editor",
+			"swatches": [
+				{
+					"name": "purple",
+					"hex": "#BD93F9"
+				},
+				{
+					"name": "pink",
+					"hex": "#FF79C6"
+				},
+				{
+					"name": "cyan",
+					"hex": "#8BE9FD"
+				},
+				{
+					"name": "green",
+					"hex": "#50FA7B"
+				},
+				{
+					"name": "yellow",
+					"hex": "#F1FA8C"
+				}
+			],
+			"vars": {
+				"canvas": "#21222C",
+				"surface": "#282A36",
+				"surfaceRaised": "#343746",
+				"selected": "#44475A",
+				"text": "#F8F8F2",
+				"textSoft": "#E6E6E0",
+				"muted": "#A4A9C3",
+				"dim": "#7D86B3",
+				"border": "#6272A4",
+				"borderMuted": "#44475A",
+				"accent": "#BD93F9",
+				"secondary": "#8BE9FD",
+				"success": "#50FA7B",
+				"warning": "#FFB86C",
+				"error": "#FF5555",
+				"highlight": "#FF79C6",
+				"search": "#683E5D",
+				"successBg": "#2E4B41",
+				"errorBg": "#4A313B",
+				"bash": "#FF79C6",
+				"synComment": "#6272A4",
+				"synKeyword": "#FF79C6",
+				"synFunction": "#50FA7B",
+				"synVariable": "#F8F8F2",
+				"synString": "#F1FA8C",
+				"synNumber": "#BD93F9",
+				"synType": "#8BE9FD",
+				"synOperator": "#FF79C6",
+				"synPunctuation": "#F8F8F2",
+				"purple": "#BD93F9",
+				"pink": "#FF79C6",
+				"cyan": "#8BE9FD",
+				"green": "#50FA7B",
+				"yellow": "#F1FA8C"
+			}
+		},
+		{
+			"id": "onedark",
+			"label": "One Dark",
+			"group": "editor",
+			"swatches": [
+				{
+					"name": "blue",
+					"hex": "#61AFEF"
+				},
+				{
+					"name": "violet",
+					"hex": "#C678DD"
+				},
+				{
+					"name": "green",
+					"hex": "#98C379"
+				},
+				{
+					"name": "gold",
+					"hex": "#E5C07B"
+				},
+				{
+					"name": "rose",
+					"hex": "#E06C75"
+				}
+			],
+			"vars": {
+				"canvas": "#21252B",
+				"surface": "#282C34",
+				"surfaceRaised": "#2C313A",
+				"selected": "#3E4451",
+				"text": "#D7DAE0",
+				"textSoft": "#ABB2BF",
+				"muted": "#9DA5B4",
+				"dim": "#7F848E",
+				"border": "#5C6370",
+				"borderMuted": "#3E4451",
+				"accent": "#61AFEF",
+				"secondary": "#C678DD",
+				"success": "#98C379",
+				"warning": "#D19A66",
+				"error": "#E06C75",
+				"highlight": "#E5C07B",
+				"search": "#605745",
+				"successBg": "#3A443F",
+				"errorBg": "#45363E",
+				"bash": "#E5C07B",
+				"synComment": "#7F848E",
+				"synKeyword": "#C678DD",
+				"synFunction": "#61AFEF",
+				"synVariable": "#E06C75",
+				"synString": "#98C379",
+				"synNumber": "#D19A66",
+				"synType": "#E5C07B",
+				"synOperator": "#56B6C2",
+				"synPunctuation": "#ABB2BF",
+				"blue": "#61AFEF",
+				"violet": "#C678DD",
+				"green": "#98C379",
+				"gold": "#E5C07B",
+				"rose": "#E06C75"
+			}
+		},
+		{
+			"id": "tokyonight",
+			"label": "Tokyo Night",
+			"group": "editor",
+			"swatches": [
+				{
+					"name": "blue",
+					"hex": "#7AA2F7"
+				},
+				{
+					"name": "magenta",
+					"hex": "#BB9AF7"
+				},
+				{
+					"name": "cyan",
+					"hex": "#7DCFFF"
+				},
+				{
+					"name": "green",
+					"hex": "#9ECE6A"
+				},
+				{
+					"name": "red",
+					"hex": "#F7768E"
+				}
+			],
+			"vars": {
+				"canvas": "#16161E",
+				"surface": "#1A1B26",
+				"surfaceRaised": "#1F2335",
+				"selected": "#283457",
+				"text": "#C0CAF5",
+				"textSoft": "#A9B1D6",
+				"muted": "#9AA5CE",
+				"dim": "#737AA2",
+				"border": "#565F89",
+				"borderMuted": "#292E42",
+				"accent": "#7AA2F7",
+				"secondary": "#BB9AF7",
+				"success": "#9ECE6A",
+				"warning": "#E0AF68",
+				"error": "#F7768E",
+				"highlight": "#7DCFFF",
+				"search": "#375166",
+				"successBg": "#2F3831",
+				"errorBg": "#3D2A37",
+				"bash": "#7DCFFF",
+				"synComment": "#565F89",
+				"synKeyword": "#BB9AF7",
+				"synFunction": "#7AA2F7",
+				"synVariable": "#C0CAF5",
+				"synString": "#9ECE6A",
+				"synNumber": "#FF9E64",
+				"synType": "#2AC3DE",
+				"synOperator": "#89DDFF",
+				"synPunctuation": "#A9B1D6",
+				"blue": "#7AA2F7",
+				"magenta": "#BB9AF7",
+				"cyan": "#7DCFFF",
+				"green": "#9ECE6A",
+				"red": "#F7768E"
+			}
+		},
+		{
+			"id": "catppuccin",
+			"label": "Catppuccin",
+			"group": "editor",
+			"swatches": [
+				{
+					"name": "mauve",
+					"hex": "#CBA6F7"
+				},
+				{
+					"name": "pink",
+					"hex": "#F5C2E7"
+				},
+				{
+					"name": "blue",
+					"hex": "#89B4FA"
+				},
+				{
+					"name": "green",
+					"hex": "#A6E3A1"
+				},
+				{
+					"name": "peach",
+					"hex": "#FAB387"
+				}
+			],
+			"vars": {
+				"canvas": "#181825",
+				"surface": "#1E1E2E",
+				"surfaceRaised": "#313244",
+				"selected": "#45475A",
+				"text": "#CDD6F4",
+				"textSoft": "#BAC2DE",
+				"muted": "#A6ADC8",
+				"dim": "#9399B2",
+				"border": "#6C7086",
+				"borderMuted": "#313244",
+				"accent": "#CBA6F7",
+				"secondary": "#89B4FA",
+				"success": "#A6E3A1",
+				"warning": "#FAB387",
+				"error": "#F38BA8",
+				"highlight": "#F5C2E7",
+				"search": "#5F4E63",
+				"successBg": "#343E40",
+				"errorBg": "#402F42",
+				"bash": "#F5C2E7",
+				"synComment": "#9399B2",
+				"synKeyword": "#CBA6F7",
+				"synFunction": "#89B4FA",
+				"synVariable": "#CDD6F4",
+				"synString": "#A6E3A1",
+				"synNumber": "#FAB387",
+				"synType": "#F9E2AF",
+				"synOperator": "#89DCEB",
+				"synPunctuation": "#9399B2",
+				"mauve": "#CBA6F7",
+				"pink": "#F5C2E7",
+				"blue": "#89B4FA",
+				"green": "#A6E3A1",
+				"peach": "#FAB387"
+			}
+		},
+		{
+			"id": "nightowl",
+			"label": "Night Owl",
+			"group": "editor",
+			"swatches": [
+				{
+					"name": "periwinkle",
+					"hex": "#82AAFF"
+				},
+				{
+					"name": "lavender",
+					"hex": "#C792EA"
+				},
+				{
+					"name": "sand",
+					"hex": "#ECC48D"
+				},
+				{
+					"name": "mint",
+					"hex": "#7FDBCA"
+				},
+				{
+					"name": "tangerine",
+					"hex": "#F78C6C"
+				}
+			],
+			"vars": {
+				"canvas": "#010E1A",
+				"surface": "#011627",
+				"surfaceRaised": "#0B2942",
+				"selected": "#1D3B53",
+				"text": "#D6DEEB",
+				"textSoft": "#C5CDD9",
+				"muted": "#A2AEBF",
+				"dim": "#7E8C9E",
+				"border": "#5F7E97",
+				"borderMuted": "#1D3B53",
+				"accent": "#82AAFF",
+				"secondary": "#C792EA",
+				"success": "#ADDB67",
+				"warning": "#F78C6C",
+				"error": "#EF5350",
+				"highlight": "#7FDBCA",
+				"search": "#295052",
+				"successBg": "#1D3631",
+				"errorBg": "#27202E",
+				"bash": "#7FDBCA",
+				"synComment": "#7E8C9E",
+				"synKeyword": "#C792EA",
+				"synFunction": "#82AAFF",
+				"synVariable": "#D6DEEB",
+				"synString": "#ECC48D",
+				"synNumber": "#F78C6C",
+				"synType": "#FFCB8B",
+				"synOperator": "#7FDBCA",
+				"synPunctuation": "#C792EA",
+				"periwinkle": "#82AAFF",
+				"lavender": "#C792EA",
+				"sand": "#ECC48D",
+				"mint": "#7FDBCA",
+				"tangerine": "#F78C6C"
+			}
+		},
+		{
+			"id": "nord",
+			"label": "Nord",
+			"group": "editor",
+			"swatches": [
+				{
+					"name": "frost",
+					"hex": "#88C0D0"
+				},
+				{
+					"name": "fjord",
+					"hex": "#81A1C1"
+				},
+				{
+					"name": "moss",
+					"hex": "#A3BE8C"
+				},
+				{
+					"name": "amber",
+					"hex": "#EBCB8B"
+				},
+				{
+					"name": "aurora",
+					"hex": "#BF616A"
+				}
+			],
+			"vars": {
+				"canvas": "#2E3440",
+				"surface": "#3B4252",
+				"surfaceRaised": "#434C5E",
+				"selected": "#4C566A",
+				"text": "#ECEFF4",
+				"textSoft": "#D8DEE9",
+				"muted": "#B8C1D1",
+				"dim": "#8C98AE",
+				"border": "#4C566A",
+				"borderMuted": "#434C5E",
+				"accent": "#88C0D0",
+				"secondary": "#81A1C1",
+				"success": "#A3BE8C",
+				"warning": "#EBCB8B",
+				"error": "#E68C94",
+				"highlight": "#B48EAD",
+				"search": "#595163",
+				"successBg": "#4C565B",
+				"errorBg": "#564E5D",
+				"bash": "#B48EAD",
+				"synComment": "#8C98AE",
+				"synKeyword": "#81A1C1",
+				"synFunction": "#88C0D0",
+				"synVariable": "#D8DEE9",
+				"synString": "#A3BE8C",
+				"synNumber": "#B48EAD",
+				"synType": "#8FBCBB",
+				"synOperator": "#81A1C1",
+				"synPunctuation": "#ECEFF4",
+				"frost": "#88C0D0",
+				"fjord": "#81A1C1",
+				"moss": "#A3BE8C",
+				"amber": "#EBCB8B",
+				"aurora": "#BF616A"
+			}
+		},
+		{
+			"id": "monokai",
+			"label": "Monokai",
+			"group": "editor",
+			"swatches": [
+				{
+					"name": "magenta",
+					"hex": "#FF6188"
+				},
+				{
+					"name": "tangerine",
+					"hex": "#FC9867"
+				},
+				{
+					"name": "lemon",
+					"hex": "#FFD866"
+				},
+				{
+					"name": "lime",
+					"hex": "#A9DC76"
+				},
+				{
+					"name": "aqua",
+					"hex": "#78DCE8"
+				}
+			],
+			"vars": {
+				"canvas": "#221F22",
+				"surface": "#2D2A2E",
+				"surfaceRaised": "#403E41",
+				"selected": "#5B595C",
+				"text": "#FCFCFA",
+				"textSoft": "#E3E1E4",
+				"muted": "#C1C0C0",
+				"dim": "#939293",
+				"border": "#727072",
+				"borderMuted": "#403E41",
+				"accent": "#FFD866",
+				"secondary": "#78DCE8",
+				"success": "#A9DC76",
+				"warning": "#FC9867",
+				"error": "#FF6188",
+				"highlight": "#AB9DF2",
+				"search": "#4E4765",
+				"successBg": "#41463A",
+				"errorBg": "#4F333C",
+				"bash": "#AB9DF2",
+				"synComment": "#939293",
+				"synKeyword": "#FF6188",
+				"synFunction": "#A9DC76",
+				"synVariable": "#FCFCFA",
+				"synString": "#FFD866",
+				"synNumber": "#AB9DF2",
+				"synType": "#78DCE8",
+				"synOperator": "#FF6188",
+				"synPunctuation": "#939293",
+				"magenta": "#FF6188",
+				"tangerine": "#FC9867",
+				"lemon": "#FFD866",
+				"lime": "#A9DC76",
+				"aqua": "#78DCE8"
+			}
+		},
+		{
+			"id": "gruvbox",
+			"label": "Gruvbox",
+			"group": "editor",
+			"swatches": [
+				{
+					"name": "mustard",
+					"hex": "#FABD2F"
+				},
+				{
+					"name": "ember",
+					"hex": "#FE8019"
+				},
+				{
+					"name": "olive",
+					"hex": "#B8BB26"
+				},
+				{
+					"name": "seafoam",
+					"hex": "#8EC07C"
+				},
+				{
+					"name": "plum",
+					"hex": "#D3869B"
+				}
+			],
+			"vars": {
+				"canvas": "#1D2021",
+				"surface": "#282828",
+				"surfaceRaised": "#3C3836",
+				"selected": "#504945",
+				"text": "#EBDBB2",
+				"textSoft": "#D5C4A1",
+				"muted": "#BDAE93",
+				"dim": "#A89984",
+				"border": "#665C54",
+				"borderMuted": "#3C3836",
+				"accent": "#FABD2F",
+				"secondary": "#83A598",
+				"success": "#B8BB26",
+				"warning": "#FE8019",
+				"error": "#FB4934",
+				"highlight": "#D3869B",
+				"search": "#574148",
+				"successBg": "#3F4028",
+				"errorBg": "#4A2D2A",
+				"bash": "#D3869B",
+				"synComment": "#A89984",
+				"synKeyword": "#FB4934",
+				"synFunction": "#8EC07C",
+				"synVariable": "#83A598",
+				"synString": "#B8BB26",
+				"synNumber": "#D3869B",
+				"synType": "#FABD2F",
+				"synOperator": "#FE8019",
+				"synPunctuation": "#D5C4A1",
+				"mustard": "#FABD2F",
+				"ember": "#FE8019",
+				"olive": "#B8BB26",
+				"seafoam": "#8EC07C",
+				"plum": "#D3869B"
+			}
+		},
+		{
+			"id": "claude",
+			"label": "Claude",
+			"group": "editor",
+			"swatches": [
+				{
+					"name": "clay",
+					"hex": "#D77757"
+				},
+				{
+					"name": "periwinkle",
+					"hex": "#B1B9F9"
+				},
+				{
+					"name": "planTeal",
+					"hex": "#48968C"
+				},
+				{
+					"name": "jade",
+					"hex": "#4EBA65"
+				},
+				{
+					"name": "bashPink",
+					"hex": "#FD5DB1"
+				}
+			],
+			"vars": {
+				"canvas": "#1F1E1D",
+				"surface": "#262624",
+				"surfaceRaised": "#30302E",
+				"selected": "#3D3D3A",
+				"text": "#F5F4EF",
+				"textSoft": "#E5E4DF",
+				"muted": "#B7B5A9",
+				"dim": "#999999",
+				"border": "#5E5D59",
+				"borderMuted": "#3D3D3A",
+				"accent": "#D77757",
+				"secondary": "#B1B9F9",
+				"success": "#4EBA65",
+				"warning": "#FFC107",
+				"error": "#FF6B80",
+				"highlight": "#D77757",
+				"search": "#5A3A30",
+				"successBg": "#2C3E2E",
+				"errorBg": "#493133",
+				"bash": "#FD5DB1",
+				"synComment": "#999999",
+				"synKeyword": "#D77757",
+				"synFunction": "#B1B9F9",
+				"synVariable": "#E5E4DF",
+				"synString": "#4EBA65",
+				"synNumber": "#FFC107",
+				"synType": "#48968C",
+				"synOperator": "#FD5DB1",
+				"synPunctuation": "#B7B5A9",
+				"clay": "#D77757",
+				"periwinkle": "#B1B9F9",
+				"planTeal": "#48968C",
+				"jade": "#4EBA65",
+				"bashPink": "#FD5DB1"
+			}
+		}
+	]
+}
