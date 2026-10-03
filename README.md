@@ -1,6 +1,6 @@
 # prjct plugins for Claude Code
 
-The `prjct` marketplace for [Claude Code](https://claude.com/claude-code), by [p/ prjct](https://prjct.app).
+The `prjct` marketplace for [Claude Code](https://claude.com/claude-code), by [prjct](https://prjct.app).
 
 ```text
 /plugin marketplace add prjct-app/claude-plugins
