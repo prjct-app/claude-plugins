@@ -13,6 +13,8 @@ export type Palette = {
   label: string
   /** original | editor | photo | community, or own for the person's library. */
   group: string
+  /** The site username of whoever made it, when the library says. */
+  author?: string
   swatches: Swatch[]
   vars: Record<string, string>
   /** Pi role → var name, only the roles that differ from Pi's defaults. */
