@@ -2448,6 +2448,1450 @@
 				"jade": "#4EBA65",
 				"bashPink": "#FD5DB1"
 			}
+		},
+		{
+			"id": "butterfly-nebula",
+			"label": "Butterfly Nebula",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "accent",
+					"hex": "#29C3D6"
+				},
+				{
+					"name": "secondary",
+					"hex": "#4C8CE8"
+				},
+				{
+					"name": "success",
+					"hex": "#47C99A"
+				},
+				{
+					"name": "warning",
+					"hex": "#F2A87A"
+				},
+				{
+					"name": "error",
+					"hex": "#9B7BE0"
+				}
+			],
+			"vars": {
+				"canvas": "#071419",
+				"surface": "#212D31",
+				"surfaceRaised": "#313C40",
+				"selected": "#145761",
+				"search": "#1E3D5F",
+				"successBg": "#163E37",
+				"errorBg": "#282B45",
+				"text": "#F0F0EB",
+				"textSoft": "#D6D9D7",
+				"muted": "#9AA3A3",
+				"dim": "#737D7E",
+				"border": "#455053",
+				"borderMuted": "#273337",
+				"accent": "#29C3D6",
+				"secondary": "#4C8CE8",
+				"success": "#47C99A",
+				"warning": "#F2A87A",
+				"error": "#9B7BE0",
+				"highlight": "#F2A87A",
+				"synComment": "dim",
+				"synKeyword": "secondary",
+				"synFunction": "accent",
+				"synVariable": "textSoft",
+				"synString": "success",
+				"synNumber": "warning",
+				"synType": "highlight",
+				"synOperator": "error",
+				"synPunctuation": "muted",
+				"bash": "highlight"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised"
+			}
+		},
+		{
+			"id": "daphnis",
+			"label": "Daphnis",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "accent",
+					"hex": "#B5B8B4"
+				},
+				{
+					"name": "secondary",
+					"hex": "#8D999C"
+				},
+				{
+					"name": "success",
+					"hex": "#D7D3C9"
+				},
+				{
+					"name": "warning",
+					"hex": "#747E89"
+				},
+				{
+					"name": "error",
+					"hex": "#E7E4DC"
+				}
+			],
+			"vars": {
+				"canvas": "#171A1D",
+				"surface": "#2F3235",
+				"surfaceRaised": "#3E4143",
+				"selected": "#535656",
+				"search": "#3F4548",
+				"successBg": "#434545",
+				"errorBg": "#454647",
+				"text": "#F0F0EB",
+				"textSoft": "#D6D9D7",
+				"muted": "#9AA3A3",
+				"dim": "#737D7E",
+				"border": "#4E5455",
+				"borderMuted": "#34383A",
+				"accent": "#B5B8B4",
+				"secondary": "#8D999C",
+				"success": "#D7D3C9",
+				"warning": "#747E89",
+				"error": "#E7E4DC",
+				"highlight": "#747E89",
+				"synComment": "dim",
+				"synKeyword": "secondary",
+				"synFunction": "accent",
+				"synVariable": "textSoft",
+				"synString": "success",
+				"synNumber": "warning",
+				"synType": "highlight",
+				"synOperator": "error",
+				"synPunctuation": "muted",
+				"bash": "highlight"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised"
+			}
+		},
+		{
+			"id": "lagoon-nebula",
+			"label": "Lagoon Nebula",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "accent",
+					"hex": "#D66A24"
+				},
+				{
+					"name": "secondary",
+					"hex": "#208F9B"
+				},
+				{
+					"name": "success",
+					"hex": "#A270C5"
+				},
+				{
+					"name": "warning",
+					"hex": "#E6B64A"
+				},
+				{
+					"name": "error",
+					"hex": "#C84C37"
+				}
+			],
+			"vars": {
+				"canvas": "#1A1111",
+				"surface": "#322A2A",
+				"surfaceRaised": "#413939",
+				"selected": "#613318",
+				"search": "#1C3C40",
+				"successBg": "#39273A",
+				"errorBg": "#401E19",
+				"text": "#F0F0EB",
+				"textSoft": "#D6D9D7",
+				"muted": "#9AA3A3",
+				"dim": "#737D7E",
+				"border": "#504E4E",
+				"borderMuted": "#363131",
+				"accent": "#D66A24",
+				"secondary": "#208F9B",
+				"success": "#A270C5",
+				"warning": "#E6B64A",
+				"error": "#C84C37",
+				"highlight": "#E6B64A",
+				"synComment": "dim",
+				"synKeyword": "secondary",
+				"synFunction": "accent",
+				"synVariable": "textSoft",
+				"synString": "success",
+				"synNumber": "warning",
+				"synType": "highlight",
+				"synOperator": "error",
+				"synPunctuation": "muted",
+				"bash": "highlight"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised"
+			}
+		},
+		{
+			"id": "saturn-distance",
+			"label": "Pale Blue Dot",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "accent",
+					"hex": "#5279D8"
+				},
+				{
+					"name": "secondary",
+					"hex": "#9C86C8"
+				},
+				{
+					"name": "success",
+					"hex": "#C7A77C"
+				},
+				{
+					"name": "warning",
+					"hex": "#56A89B"
+				},
+				{
+					"name": "error",
+					"hex": "#D78072"
+				}
+			],
+			"vars": {
+				"canvas": "#0A1120",
+				"surface": "#242A37",
+				"surfaceRaised": "#343946",
+				"selected": "#253966",
+				"search": "#3C3959",
+				"successBg": "#353435",
+				"errorBg": "#372932",
+				"text": "#F0F0EB",
+				"textSoft": "#D6D9D7",
+				"muted": "#9AA3A3",
+				"dim": "#737D7E",
+				"border": "#464E57",
+				"borderMuted": "#2A313D",
+				"accent": "#5279D8",
+				"secondary": "#9C86C8",
+				"success": "#C7A77C",
+				"warning": "#56A89B",
+				"error": "#D78072",
+				"highlight": "#56A89B",
+				"synComment": "dim",
+				"synKeyword": "secondary",
+				"synFunction": "accent",
+				"synVariable": "textSoft",
+				"synString": "success",
+				"synNumber": "warning",
+				"synType": "highlight",
+				"synOperator": "error",
+				"synPunctuation": "muted",
+				"bash": "highlight"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised"
+			}
+		},
+		{
+			"id": "southern-ring",
+			"label": "Southern Ring",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "accent",
+					"hex": "#E39A35"
+				},
+				{
+					"name": "secondary",
+					"hex": "#62C8E9"
+				},
+				{
+					"name": "success",
+					"hex": "#A16DCA"
+				},
+				{
+					"name": "warning",
+					"hex": "#D8733B"
+				},
+				{
+					"name": "error",
+					"hex": "#6E9E6B"
+				}
+			],
+			"vars": {
+				"canvas": "#15100D",
+				"surface": "#2E2926",
+				"surfaceRaised": "#3D3936",
+				"selected": "#63441C",
+				"search": "#2F4F58",
+				"successBg": "#352538",
+				"errorBg": "#292F22",
+				"text": "#F0F0EB",
+				"textSoft": "#D6D9D7",
+				"muted": "#9AA3A3",
+				"dim": "#737D7E",
+				"border": "#4D4E4C",
+				"borderMuted": "#32302E",
+				"accent": "#E39A35",
+				"secondary": "#62C8E9",
+				"success": "#A16DCA",
+				"warning": "#D8733B",
+				"error": "#6E9E6B",
+				"highlight": "#D8733B",
+				"synComment": "dim",
+				"synKeyword": "secondary",
+				"synFunction": "accent",
+				"synVariable": "textSoft",
+				"synString": "success",
+				"synNumber": "warning",
+				"synType": "highlight",
+				"synOperator": "error",
+				"synPunctuation": "muted",
+				"bash": "highlight"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised"
+			}
+		},
+		{
+			"id": "stellar-outburst",
+			"label": "Stellar Outburst",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "accent",
+					"hex": "#E64565"
+				},
+				{
+					"name": "secondary",
+					"hex": "#466FE1"
+				},
+				{
+					"name": "success",
+					"hex": "#F08DAA"
+				},
+				{
+					"name": "warning",
+					"hex": "#A64398"
+				},
+				{
+					"name": "error",
+					"hex": "#F1A947"
+				}
+			],
+			"vars": {
+				"canvas": "#170C1B",
+				"surface": "#2F2633",
+				"surfaceRaised": "#3E3542",
+				"selected": "#662237",
+				"search": "#272E5E",
+				"successBg": "#492A3C",
+				"errorBg": "#472F25",
+				"text": "#F0F0EB",
+				"textSoft": "#D6D9D7",
+				"muted": "#9AA3A3",
+				"dim": "#737D7E",
+				"border": "#4E4B54",
+				"borderMuted": "#342D39",
+				"accent": "#E64565",
+				"secondary": "#466FE1",
+				"success": "#F08DAA",
+				"warning": "#A64398",
+				"error": "#F1A947",
+				"highlight": "#A64398",
+				"synComment": "dim",
+				"synKeyword": "secondary",
+				"synFunction": "accent",
+				"synVariable": "textSoft",
+				"synString": "success",
+				"synNumber": "warning",
+				"synType": "highlight",
+				"synOperator": "error",
+				"synPunctuation": "muted",
+				"bash": "highlight"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised"
+			}
+		},
+		{
+			"id": "rho-ophiuchi",
+			"label": "Rho Ophiuchi",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "accent",
+					"hex": "#A63E76"
+				},
+				{
+					"name": "secondary",
+					"hex": "#8970D0"
+				},
+				{
+					"name": "success",
+					"hex": "#D69A5D"
+				},
+				{
+					"name": "warning",
+					"hex": "#85A69B"
+				},
+				{
+					"name": "error",
+					"hex": "#D4C5A5"
+				}
+			],
+			"vars": {
+				"canvas": "#171019",
+				"surface": "#2F2931",
+				"surfaceRaised": "#3E3940",
+				"selected": "#4D213C",
+				"search": "#3E3157",
+				"successBg": "#433029",
+				"errorBg": "#413838",
+				"text": "#F0F0EB",
+				"textSoft": "#D6D9D7",
+				"muted": "#9AA3A3",
+				"dim": "#737D7E",
+				"border": "#4E4E53",
+				"borderMuted": "#343037",
+				"accent": "#A63E76",
+				"secondary": "#8970D0",
+				"success": "#D69A5D",
+				"warning": "#85A69B",
+				"error": "#D4C5A5",
+				"highlight": "#85A69B",
+				"synComment": "dim",
+				"synKeyword": "secondary",
+				"synFunction": "accent",
+				"synVariable": "textSoft",
+				"synString": "success",
+				"synNumber": "warning",
+				"synType": "highlight",
+				"synOperator": "error",
+				"synPunctuation": "muted",
+				"bash": "highlight"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised"
+			}
+		},
+		{
+			"id": "galaxy-pair",
+			"label": "Galaxy Pair",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "accent",
+					"hex": "#8B67CC"
+				},
+				{
+					"name": "secondary",
+					"hex": "#477ED1"
+				},
+				{
+					"name": "success",
+					"hex": "#EF807B"
+				},
+				{
+					"name": "warning",
+					"hex": "#D4A85E"
+				},
+				{
+					"name": "error",
+					"hex": "#69AAA7"
+				}
+			],
+			"vars": {
+				"canvas": "#10101B",
+				"surface": "#292933",
+				"surfaceRaised": "#393942",
+				"selected": "#3F315E",
+				"search": "#233559",
+				"successBg": "#432A31",
+				"errorBg": "#24323A",
+				"text": "#F0F0EB",
+				"textSoft": "#D6D9D7",
+				"muted": "#9AA3A3",
+				"dim": "#737D7E",
+				"border": "#4A4E54",
+				"borderMuted": "#2E3039",
+				"accent": "#8B67CC",
+				"secondary": "#477ED1",
+				"success": "#EF807B",
+				"warning": "#D4A85E",
+				"error": "#69AAA7",
+				"highlight": "#D4A85E",
+				"synComment": "dim",
+				"synKeyword": "secondary",
+				"synFunction": "accent",
+				"synVariable": "textSoft",
+				"synString": "success",
+				"synNumber": "warning",
+				"synType": "highlight",
+				"synOperator": "error",
+				"synPunctuation": "muted",
+				"bash": "highlight"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised"
+			}
+		},
+		{
+			"id": "io-volcanoes",
+			"label": "Io",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "accent",
+					"hex": "#E8B83D"
+				},
+				{
+					"name": "secondary",
+					"hex": "#D9532B"
+				},
+				{
+					"name": "success",
+					"hex": "#A79BD5"
+				},
+				{
+					"name": "warning",
+					"hex": "#78A9C7"
+				},
+				{
+					"name": "error",
+					"hex": "#F1D88C"
+				}
+			],
+			"vars": {
+				"canvas": "#17100B",
+				"surface": "#2F2925",
+				"surfaceRaised": "#3E3934",
+				"selected": "#66501E",
+				"search": "#592716",
+				"successBg": "#383039",
+				"errorBg": "#473C27",
+				"text": "#F0F0EB",
+				"textSoft": "#D6D9D7",
+				"muted": "#9AA3A3",
+				"dim": "#737D7E",
+				"border": "#4E4E4B",
+				"borderMuted": "#34302C",
+				"accent": "#E8B83D",
+				"secondary": "#D9532B",
+				"success": "#A79BD5",
+				"warning": "#78A9C7",
+				"error": "#F1D88C",
+				"highlight": "#78A9C7",
+				"synComment": "dim",
+				"synKeyword": "secondary",
+				"synFunction": "accent",
+				"synVariable": "textSoft",
+				"synString": "success",
+				"synNumber": "warning",
+				"synType": "highlight",
+				"synOperator": "error",
+				"synPunctuation": "muted",
+				"bash": "highlight"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised"
+			}
+		},
+		{
+			"id": "fuji-from-orbit",
+			"label": "Fuji from Orbit",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "accent",
+					"hex": "#52734B"
+				},
+				{
+					"name": "secondary",
+					"hex": "#315B61"
+				},
+				{
+					"name": "success",
+					"hex": "#A3AD75"
+				},
+				{
+					"name": "warning",
+					"hex": "#C2B9A7"
+				},
+				{
+					"name": "error",
+					"hex": "#8EA4B7"
+				}
+			],
+			"vars": {
+				"canvas": "#0B1514",
+				"surface": "#252E2D",
+				"surfaceRaised": "#343D3C",
+				"selected": "#263929",
+				"search": "#182D2E",
+				"successBg": "#2E382A",
+				"errorBg": "#283438",
+				"text": "#F0F0EB",
+				"textSoft": "#D6D9D7",
+				"muted": "#9AA3A3",
+				"dim": "#737D7E",
+				"border": "#475150",
+				"borderMuted": "#2A3433",
+				"accent": "#52734B",
+				"secondary": "#315B61",
+				"success": "#A3AD75",
+				"warning": "#C2B9A7",
+				"error": "#8EA4B7",
+				"highlight": "#C2B9A7",
+				"synComment": "dim",
+				"synKeyword": "secondary",
+				"synFunction": "accent",
+				"synVariable": "textSoft",
+				"synString": "success",
+				"synNumber": "warning",
+				"synType": "highlight",
+				"synOperator": "error",
+				"synPunctuation": "muted",
+				"bash": "highlight"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised"
+			}
+		},
+		{
+			"id": "ring-nebula",
+			"label": "Ring Nebula",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "accent",
+					"hex": "#2F9FB7"
+				},
+				{
+					"name": "secondary",
+					"hex": "#E6A447"
+				},
+				{
+					"name": "success",
+					"hex": "#C45A2A"
+				},
+				{
+					"name": "warning",
+					"hex": "#5B75C8"
+				},
+				{
+					"name": "error",
+					"hex": "#C7B5A3"
+				}
+			],
+			"vars": {
+				"canvas": "#0A131C",
+				"surface": "#242C34",
+				"surfaceRaised": "#343B43",
+				"selected": "#184857",
+				"search": "#55442B",
+				"successBg": "#35231F",
+				"errorBg": "#34373A",
+				"text": "#F0F0EB",
+				"textSoft": "#D6D9D7",
+				"muted": "#9AA3A3",
+				"dim": "#737D7E",
+				"border": "#464F55",
+				"borderMuted": "#2A333A",
+				"accent": "#2F9FB7",
+				"secondary": "#E6A447",
+				"success": "#C45A2A",
+				"warning": "#5B75C8",
+				"error": "#C7B5A3",
+				"highlight": "#5B75C8",
+				"synComment": "dim",
+				"synKeyword": "secondary",
+				"synFunction": "accent",
+				"synVariable": "textSoft",
+				"synString": "success",
+				"synNumber": "warning",
+				"synType": "highlight",
+				"synOperator": "error",
+				"synPunctuation": "muted",
+				"bash": "highlight"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised"
+			}
+		},
+		{
+			"id": "pillars-of-creation",
+			"label": "Pillars of Creation",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "accent",
+					"hex": "#C86D32"
+				},
+				{
+					"name": "secondary",
+					"hex": "#557EC2"
+				},
+				{
+					"name": "success",
+					"hex": "#B2A694"
+				},
+				{
+					"name": "warning",
+					"hex": "#D14F54"
+				},
+				{
+					"name": "error",
+					"hex": "#E4BD68"
+				}
+			],
+			"vars": {
+				"canvas": "#170E12",
+				"surface": "#2F272B",
+				"surfaceRaised": "#3E373A",
+				"selected": "#5A321E",
+				"search": "#2C344E",
+				"successBg": "#3B3130",
+				"errorBg": "#443525",
+				"text": "#F0F0EB",
+				"textSoft": "#D6D9D7",
+				"muted": "#9AA3A3",
+				"dim": "#737D7E",
+				"border": "#4E4D4F",
+				"borderMuted": "#342F32",
+				"accent": "#C86D32",
+				"secondary": "#557EC2",
+				"success": "#B2A694",
+				"warning": "#D14F54",
+				"error": "#E4BD68",
+				"highlight": "#D14F54",
+				"synComment": "dim",
+				"synKeyword": "secondary",
+				"synFunction": "accent",
+				"synVariable": "textSoft",
+				"synString": "success",
+				"synNumber": "warning",
+				"synType": "highlight",
+				"synOperator": "error",
+				"synPunctuation": "muted",
+				"bash": "highlight"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised"
+			}
+		},
+		{
+			"id": "saturns-rings",
+			"label": "Saturn’s Rings",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "accent",
+					"hex": "#91816B"
+				},
+				{
+					"name": "secondary",
+					"hex": "#B9B7B0"
+				},
+				{
+					"name": "success",
+					"hex": "#D6C9B3"
+				},
+				{
+					"name": "warning",
+					"hex": "#6F7275"
+				},
+				{
+					"name": "error",
+					"hex": "#E7DED0"
+				}
+			],
+			"vars": {
+				"canvas": "#141413",
+				"surface": "#2D2D2C",
+				"surfaceRaised": "#3C3C3B",
+				"selected": "#443D34",
+				"search": "#4C4B48",
+				"successBg": "#413E38",
+				"errorBg": "#42403D",
+				"text": "#F0F0EB",
+				"textSoft": "#D6D9D7",
+				"muted": "#9AA3A3",
+				"dim": "#737D7E",
+				"border": "#4C504F",
+				"borderMuted": "#313333",
+				"accent": "#91816B",
+				"secondary": "#B9B7B0",
+				"success": "#D6C9B3",
+				"warning": "#6F7275",
+				"error": "#E7DED0",
+				"highlight": "#6F7275",
+				"synComment": "dim",
+				"synKeyword": "secondary",
+				"synFunction": "accent",
+				"synVariable": "textSoft",
+				"synString": "success",
+				"synNumber": "warning",
+				"synType": "highlight",
+				"synOperator": "error",
+				"synPunctuation": "muted",
+				"bash": "highlight"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised"
+			}
+		},
+		{
+			"id": "aurora-borealis",
+			"label": "Aurora Borealis",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "accent",
+					"hex": "#77DB44"
+				},
+				{
+					"name": "secondary",
+					"hex": "#38B9A2"
+				},
+				{
+					"name": "success",
+					"hex": "#B9E97B"
+				},
+				{
+					"name": "warning",
+					"hex": "#7EA6C8"
+				},
+				{
+					"name": "error",
+					"hex": "#D9E7F4"
+				}
+			],
+			"vars": {
+				"canvas": "#08120F",
+				"surface": "#222B28",
+				"surfaceRaised": "#323A38",
+				"selected": "#325E23",
+				"search": "#184B41",
+				"successBg": "#314328",
+				"errorBg": "#364141",
+				"text": "#F0F0EB",
+				"textSoft": "#D6D9D7",
+				"muted": "#9AA3A3",
+				"dim": "#737D7E",
+				"border": "#454F4D",
+				"borderMuted": "#283230",
+				"accent": "#77DB44",
+				"secondary": "#38B9A2",
+				"success": "#B9E97B",
+				"warning": "#7EA6C8",
+				"error": "#D9E7F4",
+				"highlight": "#7EA6C8",
+				"synComment": "dim",
+				"synKeyword": "secondary",
+				"synFunction": "accent",
+				"synVariable": "textSoft",
+				"synString": "success",
+				"synNumber": "warning",
+				"synType": "highlight",
+				"synOperator": "error",
+				"synPunctuation": "muted",
+				"bash": "highlight"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised"
+			}
+		},
+		{
+			"id": "sombrero-galaxy",
+			"label": "Sombrero Galaxy",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "accent",
+					"hex": "#7B73D8"
+				},
+				{
+					"name": "secondary",
+					"hex": "#B9A8D0"
+				},
+				{
+					"name": "success",
+					"hex": "#CEB696"
+				},
+				{
+					"name": "warning",
+					"hex": "#7893BD"
+				},
+				{
+					"name": "error",
+					"hex": "#E7D7C5"
+				}
+			],
+			"vars": {
+				"canvas": "#111019",
+				"surface": "#2A2931",
+				"surfaceRaised": "#393940",
+				"selected": "#393662",
+				"search": "#4A4457",
+				"successBg": "#3C3636",
+				"errorBg": "#403C3F",
+				"text": "#F0F0EB",
+				"textSoft": "#D6D9D7",
+				"muted": "#9AA3A3",
+				"dim": "#737D7E",
+				"border": "#4B4E53",
+				"borderMuted": "#2F3037",
+				"accent": "#7B73D8",
+				"secondary": "#B9A8D0",
+				"success": "#CEB696",
+				"warning": "#7893BD",
+				"error": "#E7D7C5",
+				"highlight": "#7893BD",
+				"synComment": "dim",
+				"synKeyword": "secondary",
+				"synFunction": "accent",
+				"synVariable": "textSoft",
+				"synString": "success",
+				"synNumber": "warning",
+				"synType": "highlight",
+				"synOperator": "error",
+				"synPunctuation": "muted",
+				"bash": "highlight"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised"
+			}
+		},
+		{
+			"id": "earthrise-sunset",
+			"label": "Earthrise",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "accent",
+					"hex": "#F07483"
+				},
+				{
+					"name": "secondary",
+					"hex": "#416CBA"
+				},
+				{
+					"name": "success",
+					"hex": "#F3B86A"
+				},
+				{
+					"name": "warning",
+					"hex": "#9A75C2"
+				},
+				{
+					"name": "error",
+					"hex": "#C5D4E2"
+				}
+			],
+			"vars": {
+				"canvas": "#10121B",
+				"surface": "#292B33",
+				"surfaceRaised": "#393A42",
+				"selected": "#653743",
+				"search": "#213151",
+				"successBg": "#44382D",
+				"errorBg": "#383D47",
+				"text": "#F0F0EB",
+				"textSoft": "#D6D9D7",
+				"muted": "#9AA3A3",
+				"dim": "#737D7E",
+				"border": "#4A4F54",
+				"borderMuted": "#2E3239",
+				"accent": "#F07483",
+				"secondary": "#416CBA",
+				"success": "#F3B86A",
+				"warning": "#9A75C2",
+				"error": "#C5D4E2",
+				"highlight": "#9A75C2",
+				"synComment": "dim",
+				"synKeyword": "secondary",
+				"synFunction": "accent",
+				"synVariable": "textSoft",
+				"synString": "success",
+				"synNumber": "warning",
+				"synType": "highlight",
+				"synOperator": "error",
+				"synPunctuation": "muted",
+				"bash": "highlight"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised"
+			}
+		},
+		{
+			"id": "cosmic-cliffs",
+			"label": "Cosmic Cliffs",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "accent",
+					"hex": "#BC5B28"
+				},
+				{
+					"name": "secondary",
+					"hex": "#277DBB"
+				},
+				{
+					"name": "success",
+					"hex": "#E6AC50"
+				},
+				{
+					"name": "warning",
+					"hex": "#9876C8"
+				},
+				{
+					"name": "error",
+					"hex": "#D9C2A2"
+				}
+			],
+			"vars": {
+				"canvas": "#130E11",
+				"surface": "#2C272A",
+				"surfaceRaised": "#3B3739",
+				"selected": "#532B1A",
+				"search": "#1A344B",
+				"successBg": "#44321F",
+				"errorBg": "#3F3631",
+				"text": "#F0F0EB",
+				"textSoft": "#D6D9D7",
+				"muted": "#9AA3A3",
+				"dim": "#737D7E",
+				"border": "#4C4D4E",
+				"borderMuted": "#312F31",
+				"accent": "#BC5B28",
+				"secondary": "#277DBB",
+				"success": "#E6AC50",
+				"warning": "#9876C8",
+				"error": "#D9C2A2",
+				"highlight": "#9876C8",
+				"synComment": "dim",
+				"synKeyword": "secondary",
+				"synFunction": "accent",
+				"synVariable": "textSoft",
+				"synString": "success",
+				"synNumber": "warning",
+				"synType": "highlight",
+				"synOperator": "error",
+				"synPunctuation": "muted",
+				"bash": "highlight"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised"
+			}
+		},
+		{
+			"id": "cartwheel-galaxy",
+			"label": "Cartwheel Galaxy",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "accent",
+					"hex": "#DC4B55"
+				},
+				{
+					"name": "secondary",
+					"hex": "#4E83BE"
+				},
+				{
+					"name": "success",
+					"hex": "#E6AE52"
+				},
+				{
+					"name": "warning",
+					"hex": "#B77D99"
+				},
+				{
+					"name": "error",
+					"hex": "#C7C4B5"
+				}
+			],
+			"vars": {
+				"canvas": "#140D11",
+				"surface": "#2D262A",
+				"surfaceRaised": "#3C3639",
+				"selected": "#60252B",
+				"search": "#28354C",
+				"successBg": "#443220",
+				"errorBg": "#3B3535",
+				"text": "#F0F0EB",
+				"textSoft": "#D6D9D7",
+				"muted": "#9AA3A3",
+				"dim": "#737D7E",
+				"border": "#4C4C4E",
+				"borderMuted": "#312E31",
+				"accent": "#DC4B55",
+				"secondary": "#4E83BE",
+				"success": "#E6AE52",
+				"warning": "#B77D99",
+				"error": "#C7C4B5",
+				"highlight": "#B77D99",
+				"synComment": "dim",
+				"synKeyword": "secondary",
+				"synFunction": "accent",
+				"synVariable": "textSoft",
+				"synString": "success",
+				"synNumber": "warning",
+				"synType": "highlight",
+				"synOperator": "error",
+				"synPunctuation": "muted",
+				"bash": "highlight"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised"
+			}
+		},
+		{
+			"id": "jewel-nebula",
+			"label": "Jewel Nebula",
+			"group": "photo",
+			"swatches": [
+				{
+					"name": "accent",
+					"hex": "#4E9ED5"
+				},
+				{
+					"name": "secondary",
+					"hex": "#E56F84"
+				},
+				{
+					"name": "success",
+					"hex": "#A9CEE2"
+				},
+				{
+					"name": "warning",
+					"hex": "#C18F70"
+				},
+				{
+					"name": "error",
+					"hex": "#C7B7DB"
+				}
+			],
+			"vars": {
+				"canvas": "#10121B",
+				"surface": "#292B33",
+				"surfaceRaised": "#393A42",
+				"selected": "#284762",
+				"search": "#58323F",
+				"successBg": "#333D49",
+				"errorBg": "#383645",
+				"text": "#F0F0EB",
+				"textSoft": "#D6D9D7",
+				"muted": "#9AA3A3",
+				"dim": "#737D7E",
+				"border": "#4A4F54",
+				"borderMuted": "#2E3239",
+				"accent": "#4E9ED5",
+				"secondary": "#E56F84",
+				"success": "#A9CEE2",
+				"warning": "#C18F70",
+				"error": "#C7B7DB",
+				"highlight": "#C18F70",
+				"synComment": "dim",
+				"synKeyword": "secondary",
+				"synFunction": "accent",
+				"synVariable": "textSoft",
+				"synString": "success",
+				"synNumber": "warning",
+				"synType": "highlight",
+				"synOperator": "error",
+				"synPunctuation": "muted",
+				"bash": "highlight"
+			},
+			"colors": {
+				"mdCode": "success",
+				"syntaxComment": "dim",
+				"syntaxKeyword": "secondary",
+				"syntaxFunction": "accent",
+				"syntaxVariable": "textSoft",
+				"syntaxString": "success",
+				"syntaxNumber": "warning",
+				"syntaxType": "highlight",
+				"syntaxOperator": "error",
+				"syntaxPunctuation": "muted",
+				"bashMode": "highlight"
+			},
+			"export": {
+				"pageBg": "canvas",
+				"cardBg": "surface",
+				"infoBg": "surfaceRaised"
+			}
 		}
 	]
 }

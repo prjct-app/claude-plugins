@@ -1,7 +1,7 @@
 {
   "name": "palette",
-  "version": "0.4.0",
-  "description": "pi-palette's color themes for Claude Code: a live-preview picker, favorites, and your library from palette.prjct.app.",
+  "version": "0.5.0",
+  "description": "pi-palette's color themes for Claude Code: 53 themes in /theme, and your library from palette.prjct.app kept in sync, with backups.",
   "author": {
     "name": "prjct",
     "url": "https://prjct.app"
